@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/28 16:11:58.000.777,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/28 22:45:04.000.836,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/15 16:03:11.000.725,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/15 16:04:14.000.041,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unturned Server Manager\uUSM.pas</Transaction>
+    <Transaction>2017/06/15 16:04:14.000.041,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unturned Server Manager\uUSM.dfm</Transaction>
+    <Transaction>2017/06/15 16:04:21.000.631,C:\Users\adria\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unturned Server Manager\pUSM.dproj</Transaction>
+    <Transaction>2017/06/15 16:41:15.000.941,=C:\Users\adria\Documents\Embarcadero\Studio\Projects\Unturned Server Manager\uSteamCMDinstaller.pas</Transaction>
+  </Transactions>
+</BorlandProject>
